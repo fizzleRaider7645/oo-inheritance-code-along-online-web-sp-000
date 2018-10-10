@@ -7,4 +7,7 @@ class Car
     @size = size
     @number = number
   end
+  
+  def wheel_size
+  end
 end
