@@ -1,7 +1,7 @@
 require_relative "./vehicle.rb"
 
 class Car
-  attr_reader :size, :number
+  attr_accessor :size, :number
   
   def initialize(size, number)
     @size = size
