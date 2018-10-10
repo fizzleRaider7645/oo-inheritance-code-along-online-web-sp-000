@@ -1,5 +1,6 @@
 require_relative "./vehicle.rb"
 
 class Car
-  def initialize
+  def initialize(size, number)
+  end
 end
